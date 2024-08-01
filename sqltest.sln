@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuerySqlServer", "sqltest\QuerySqlServer.csproj", "{ED522C68-E63D-4C25-849A-1478D6DF8919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED522C68-E63D-4C25-849A-1478D6DF8919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED522C68-E63D-4C25-849A-1478D6DF8919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED522C68-E63D-4C25-849A-1478D6DF8919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED522C68-E63D-4C25-849A-1478D6DF8919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA098FE-FC3D-4503-9A96-67112CA21B77}
+	EndGlobalSection
+EndGlobal
